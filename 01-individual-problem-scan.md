@@ -1,6 +1,6 @@
 ## Phase 1: Individual Problem Scan
 | # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
-| 1 | Lỗi v-app | Không đăng nhập được | học viên | Học viên mất từ 10 - 15 phút loay hoay đầu giờ học chỉ để đăng nhập, làm trễ tiến độ giảng dạy | 
+| 1 | Lặp lại | Lỗi V app không đăng nhập được | học viên | Học viên mất từ 10 - 15 phút loay hoay đầu giờ học chỉ để đăng nhập, làm trễ tiến độ giảng dạy | 
 | 2 | Cạnh tranh | AI phát triển nhiều doanh nghiệp ít tuyển intern, fresher  | Sinh viên mới tốt nghiệp | Các tuyển dụng thực tập sinh giảm đáng kể |
 | 3 | Mơ hồ | Hướng dẫn làm lab day 01 chưa ổn | Học viên | làm sai workflow |
 | 4 | Delay | Khi làm bài tập lab các anh coach không kịp hỗ trợ kịp thời cho toàn bạn | học viên | các bạn phải chờ đợi để được hướng dẫn |
