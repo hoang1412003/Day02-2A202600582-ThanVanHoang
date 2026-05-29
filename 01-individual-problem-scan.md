@@ -1,5 +1,6 @@
 ## Phase 1: Individual Problem Scan
 | # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
+|---|---|---|---|---|
 | 1 | Lặp lại | Lỗi V app không đăng nhập được | học viên | Học viên mất từ 10 - 15 phút loay hoay đầu giờ học chỉ để đăng nhập, làm trễ tiến độ giảng dạy | 
 | 2 | Cạnh tranh | AI phát triển nhiều doanh nghiệp ít tuyển intern, fresher  | Sinh viên mới tốt nghiệp | Các tuyển dụng thực tập sinh giảm đáng kể |
 | 3 | Mơ hồ | Hướng dẫn làm lab day 01 chưa ổn | Học viên | làm sai workflow |
@@ -9,6 +10,7 @@
 ## Top 3: 
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
+|---|---|---|---|
 | 1 | Khi làm bài tập lab các anh coach không kịp hỗ trợ kịp thời cho toàn bạn | Diễn ra liên tục trong mọi buổi thực hành | AI có hiểu được các bug "độc lạ" do học viên tự viết code sai logic phức tạp không, hay chỉ sửa được lỗi cú pháp |
 | 2 | Thông tin học tập, bài tập và thông báo bị chia nhỏ và rải rác trên quá nhiều nền tảng | Sinh viên phải mở và kiểm tra liên tục nhiều ứng dụng khác nhau mỗi ngày | Rủi ro rò rỉ dữ liệu hoặc vi phạm quyền riêng tư khi AI quét tin nhắn trong group |
 | 3 | Hướng dẫn làm lab day 01 chưa ổn | Đánh trúng tâm lý của học viên mới | Mất bao lâu để chuẩn hóa dữ liệu đầu vào để AI đọc không bị nhầm lẫn |
